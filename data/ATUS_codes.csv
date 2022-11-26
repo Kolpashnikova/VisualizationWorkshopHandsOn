@@ -1,0 +1,574 @@
+﻿ACTIVITY,Name,Alphabet
+10101,Sleep,a
+10102,Sleep,a
+10199,Sleep,a
+10201,Personal Care,b
+10299,Personal Care,b
+10301,Personal Care,b
+10399,Personal Care,b
+10401,Personal Care,b
+10499,Personal Care,b
+10501,Personal Care,b
+10599,Personal Care,b
+19999,Personal Care,b
+20101,Housework,c
+20102,Housework,c
+20103,Housework,c
+20104,Housework,c
+20199,Housework,c
+20201,Housework,c
+20202,Housework,c
+20203,Housework,c
+20299,Housework,c
+20301,Housework,c
+20302,Housework,c
+20303,Housework,c
+20399,Housework,c
+20401,Housework,c
+20402,Housework,c
+20499,Housework,c
+20501,Housework,c
+20502,Housework,c
+20599,Housework,c
+20681,Housework,c
+20601,Housework,c
+20602,Housework,c
+20603,Housework,c
+20699,Housework,c
+20701,Housework,c
+20799,Housework,c
+20801,Housework,c
+20899,Housework,c
+20901,Housework,c
+20902,Housework,c
+20903,Housework,c
+20904,Housework,c
+20905,Housework,c
+20999,Housework,c
+29999,Housework,c
+30101,Childcare,d
+30102,Childcare,d
+30103,Childcare,d
+30104,Childcare,d
+30105,Childcare,d
+30186,Childcare,d
+30106,Childcare,d
+30107,Childcare,d
+30108,Childcare,d
+30109,Childcare,d
+30110,Childcare,d
+30111,Childcare,d
+30112,Childcare,d
+30199,Childcare,d
+30201,Childcare,d
+30202,Childcare,d
+30203,Childcare,d
+30204,Childcare,d
+30299,Childcare,d
+30301,Childcare,d
+30302,Childcare,d
+30303,Childcare,d
+30399,Childcare,d
+30401,Adult care,e
+30402,Adult care,e
+30403,Adult care,e
+30404,Adult care,e
+30405,Adult care,e
+30499,Adult care,e
+30501,Adult care,e
+30502,Adult care,e
+30503,Adult care,e
+30504,Adult care,e
+30599,Adult care,e
+39999,Adult care,e
+40101,Childcare,d
+40102,Childcare,d
+40103,Childcare,d
+40104,Childcare,d
+40105,Childcare,d
+40186,Childcare,d
+40106,Childcare,d
+40107,Childcare,d
+40108,Childcare,d
+40109,Childcare,d
+40110,Childcare,d
+40111,Childcare,d
+40112,Childcare,d
+40199,Childcare,d
+40201,Childcare,d
+40202,Childcare,d
+40203,Childcare,d
+40204,Childcare,d
+40299,Childcare,d
+40301,Childcare,d
+40302,Childcare,d
+40303,Childcare,d
+40399,Childcare,d
+40401,Adult care,e
+40402,Adult care,e
+40403,Adult care,e
+40404,Adult care,e
+40405,Adult care,e
+40499,Adult care,e
+40501,Adult care,e
+40502,Adult care,e
+40503,Adult care,e
+40504,Adult care,e
+40505,Adult care,e
+40506,Adult care,e
+40507,Adult care,e
+40508,Adult care,e
+40599,Adult care,e
+49999,Adult care,e
+50101,Working and Education,f
+50102,Working and Education,f
+50103,Working and Education,f
+50189,Working and Education,f
+50104,Working and Education,f
+50199,Working and Education,f
+50201,Working and Education,f
+50202,Working and Education,f
+50203,Working and Education,f
+50204,Working and Education,f
+50289,Working and Education,f
+50205,Working and Education,f
+50299,Working and Education,f
+50301,Working and Education,f
+50302,Working and Education,f
+50303,Working and Education,f
+50304,Working and Education,f
+50389,Working and Education,f
+50305,Working and Education,f
+50399,Working and Education,f
+50481,Working and Education,f
+50401,Working and Education,f
+50402,Working and Education,f
+50403,Working and Education,f
+50404,Working and Education,f
+50405,Working and Education,f
+50499,Working and Education,f
+59999,Working and Education,f
+60101,Working and Education,f
+60102,Working and Education,f
+60103,Working and Education,f
+60104,Working and Education,f
+60199,Working and Education,f
+60201,Working and Education,f
+60202,Working and Education,f
+60203,Working and Education,f
+60289,Working and Education,f
+60204,Working and Education,f
+60299,Working and Education,f
+60301,Working and Education,f
+60302,Working and Education,f
+60303,Working and Education,f
+60399,Working and Education,f
+60401,Working and Education,f
+60402,Working and Education,f
+60403,Working and Education,f
+60499,Working and Education,f
+69999,Working and Education,f
+70101,Shopping and Services,g
+70102,Shopping and Services,g
+70103,Shopping and Services,g
+70104,Shopping and Services,g
+70105,Shopping and Services,g
+70199,Shopping and Services,g
+70201,Shopping and Services,g
+70299,Shopping and Services,g
+70301,Shopping and Services,g
+70399,Shopping and Services,g
+79999,Shopping and Services,g
+80101,Shopping and Services,g
+80102,Shopping and Services,g
+80199,Shopping and Services,g
+80201,Shopping and Services,g
+80202,Shopping and Services,g
+80203,Shopping and Services,g
+80299,Shopping and Services,g
+80301,Shopping and Services,g
+80302,Shopping and Services,g
+80399,Shopping and Services,g
+80401,Shopping and Services,g
+80402,Shopping and Services,g
+80403,Shopping and Services,g
+80499,Shopping and Services,g
+80501,Shopping and Services,g
+80502,Shopping and Services,g
+80599,Shopping and Services,g
+80601,Shopping and Services,g
+80602,Shopping and Services,g
+80699,Shopping and Services,g
+80701,Shopping and Services,g
+80702,Shopping and Services,g
+80799,Shopping and Services,g
+80801,Shopping and Services,g
+80899,Shopping and Services,g
+89999,Shopping and Services,g
+90101,Shopping and Services,g
+90102,Shopping and Services,g
+90103,Shopping and Services,g
+90104,Shopping and Services,g
+90199,Shopping and Services,g
+90201,Shopping and Services,g
+90202,Shopping and Services,g
+90299,Shopping and Services,g
+90301,Shopping and Services,g
+90302,Shopping and Services,g
+90399,Shopping and Services,g
+90401,Shopping and Services,g
+90402,Shopping and Services,g
+90499,Shopping and Services,g
+90501,Shopping and Services,g
+90502,Shopping and Services,g
+90599,Shopping and Services,g
+99999,Shopping and Services,g
+100101,Shopping and Services,g
+100102,Shopping and Services,g
+100103,Shopping and Services,g
+100199,Shopping and Services,g
+100201,Shopping and Services,g
+100299,Shopping and Services,g
+100381,Shopping and Services,g
+100301,Shopping and Services,g
+100302,Shopping and Services,g
+100304,Shopping and Services,g
+100383,Shopping and Services,g
+100303,Shopping and Services,g
+100305,Shopping and Services,g
+100399,Shopping and Services,g
+100401,Shopping and Services,g
+100499,Shopping and Services,g
+109999,Shopping and Services,g
+110101,Eating,h
+110199,Eating,h
+110281,Eating,h
+110201,Eating,h
+110202,Eating,h
+110203,Eating,h
+110289,Eating,h
+110204,Eating,h
+110299,Eating,h
+119999,Eating,h
+120101,Leisure,i
+120199,Leisure,i
+120201,Leisure,i
+120202,Leisure,i
+120299,Leisure,i
+120301,Leisure,i
+120302,Leisure,i
+120303,Leisure,i
+120304,Leisure,i
+120305,Leisure,i
+120306,Leisure,i
+120307,Leisure,i
+120308,Leisure,i
+120309,Leisure,i
+120310,Leisure,i
+120311,Leisure,i
+120312,Leisure,i
+120313,Leisure,i
+120399,Leisure,i
+120401,Leisure,i
+120402,Leisure,i
+120403,Leisure,i
+120404,Leisure,i
+120405,Leisure,i
+120499,Leisure,i
+120501,Leisure,i
+120502,Leisure,i
+120503,Leisure,i
+120504,Leisure,i
+120599,Leisure,i
+129999,Leisure,i
+130101,Sports,j
+130102,Sports,j
+130103,Sports,j
+130104,Sports,j
+130105,Sports,j
+130106,Sports,j
+130107,Sports,j
+130108,Sports,j
+130109,Sports,j
+130110,Sports,j
+130111,Sports,j
+130112,Sports,j
+130113,Sports,j
+130114,Sports,j
+130115,Sports,j
+130116,Sports,j
+130117,Sports,j
+130118,Sports,j
+130119,Sports,j
+130120,Sports,j
+130121,Sports,j
+130122,Sports,j
+130123,Sports,j
+130124,Sports,j
+130125,Sports,j
+130126,Sports,j
+130127,Sports,j
+130128,Sports,j
+130129,Sports,j
+130130,Sports,j
+130131,Sports,j
+130132,Sports,j
+130133,Sports,j
+130134,Sports,j
+130135,Sports,j
+130136,Sports,j
+130199,Sports,j
+130201,Leisure,i
+130202,Leisure,i
+130203,Leisure,i
+130204,Leisure,i
+130205,Leisure,i
+130206,Leisure,i
+130207,Leisure,i
+130208,Leisure,i
+130209,Leisure,i
+130210,Leisure,i
+130211,Leisure,i
+130212,Leisure,i
+130213,Leisure,i
+130214,Leisure,i
+130215,Leisure,i
+130216,Leisure,i
+130217,Leisure,i
+130218,Leisure,i
+130219,Leisure,i
+130220,Leisure,i
+130221,Leisure,i
+130222,Leisure,i
+130223,Leisure,i
+130224,Leisure,i
+130225,Leisure,i
+130226,Leisure,i
+130227,Leisure,i
+130228,Leisure,i
+130229,Leisure,i
+130230,Leisure,i
+130231,Leisure,i
+130232,Leisure,i
+130299,Leisure,i
+130301,Leisure,i
+130302,Leisure,i
+130399,Leisure,i
+130401,Leisure,i
+130402,Leisure,i
+130499,Leisure,i
+139999,Leisure,i
+140101,Leisure,i
+140102,Leisure,i
+140103,Leisure,i
+140104,Leisure,i
+140105,Leisure,i
+149999,Leisure,i
+150101,Leisure,i
+150102,Leisure,i
+150103,Leisure,i
+150104,Leisure,i
+150105,Leisure,i
+150106,Leisure,i
+150199,Leisure,i
+150201,Leisure,i
+150202,Leisure,i
+150203,Leisure,i
+150204,Leisure,i
+150299,Leisure,i
+150301,Leisure,i
+150302,Leisure,i
+150399,Leisure,i
+150401,Leisure,i
+150402,Leisure,i
+150499,Leisure,i
+150501,Leisure,i
+150599,Leisure,i
+150601,Leisure,i
+150602,Leisure,i
+150699,Leisure,i
+150701,Leisure,i
+150799,Leisure,i
+150801,Leisure,i
+150899,Leisure,i
+159999,Leisure,i
+159989,Leisure,i
+160101,Leisure,i
+160102,Leisure,i
+160103,Leisure,i
+160104,Leisure,i
+160105,Leisure,i
+160106,Leisure,i
+160107,Leisure,i
+160108,Leisure,i
+169989,Leisure,i
+160199,Leisure,i
+160201,Leisure,i
+160299,Leisure,i
+169999,Leisure,i
+180101,Travel,k
+170101,Travel,k
+180199,Travel,k
+170199,Travel,k
+180280,Travel,k
+170201,Travel,k
+170202,Travel,k
+170299,Travel,k
+170203,Travel,k
+170204,Travel,k
+170205,Travel,k
+170206,Travel,k
+170207,Travel,k
+170208,Travel,k
+170209,Travel,k
+180201,Travel,k
+180202,Travel,k
+180203,Travel,k
+180204,Travel,k
+180205,Travel,k
+180206,Travel,k
+180207,Travel,k
+180208,Travel,k
+180209,Travel,k
+180299,Travel,k
+180381,Travel,k
+170301,Travel,k
+180301,Travel,k
+180302,Travel,k
+180303,Travel,k
+180382,Travel,k
+170302,Travel,k
+180304,Travel,k
+180305,Travel,k
+180306,Travel,k
+180399,Travel,k
+170399,Travel,k
+180481,Travel,k
+170401,Travel,k
+180401,Travel,k
+180402,Travel,k
+180403,Travel,k
+180482,Travel,k
+170402,Travel,k
+180404,Travel,k
+180405,Travel,k
+180406,Travel,k
+180499,Travel,k
+170499,Travel,k
+170501,Travel,k
+180501,Travel,k
+180502,Travel,k
+170502,Travel,k
+180589,Travel,k
+170503,Travel,k
+170504,Travel,k
+170599,Travel,k
+180503,Travel,k
+180504,Travel,k
+180599,Travel,k
+180601,Travel,k
+170601,Travel,k
+180682,Travel,k
+170602,Travel,k
+180602,Travel,k
+180603,Travel,k
+180604,Travel,k
+180699,Travel,k
+170699,Travel,k
+180701,Travel,k
+170701,Travel,k
+180782,Travel,k
+170702,Travel,k
+170799,Travel,k
+170703,Travel,k
+180702,Travel,k
+180703,Travel,k
+180704,Travel,k
+180705,Travel,k
+180799,Travel,k
+180801,Travel,k
+170801,Travel,k
+180802,Travel,k
+170802,Travel,k
+180803,Travel,k
+170803,Travel,k
+180804,Travel,k
+170804,Travel,k
+180805,Travel,k
+170805,Travel,k
+180806,Travel,k
+170806,Travel,k
+180807,Travel,k
+170807,Travel,k
+180899,Travel,k
+170899,Travel,k
+180901,Travel,k
+170901,Travel,k
+180902,Travel,k
+170902,Travel,k
+180903,Travel,k
+170903,Travel,k
+180904,Travel,k
+170904,Travel,k
+180905,Travel,k
+170905,Travel,k
+180999,Travel,k
+170999,Travel,k
+181081,Travel,k
+171001,Travel,k
+171002,Travel,k
+171003,Travel,k
+181001,Travel,k
+181002,Travel,k
+171004,Travel,k
+181099,Travel,k
+171099,Travel,k
+181101,Travel,k
+171101,Travel,k
+181199,Travel,k
+171199,Travel,k
+181201,Travel,k
+171201,Travel,k
+181202,Travel,k
+171202,Travel,k
+181283,Travel,k
+171203,Travel,k
+181203,Travel,k
+181205,Travel,k
+181206,Travel,k
+181204,Travel,k
+171204,Travel,k
+181299,Travel,k
+171299,Travel,k
+181301,Travel,k
+171301,Travel,k
+181302,Travel,k
+171302,Travel,k
+181399,Travel,k
+181401,Travel,k
+171401,Travel,k
+181499,Travel,k
+171499,Travel,k
+181501,Travel,k
+171501,Travel,k
+181599,Travel,k
+171599,Travel,k
+181601,Travel,k
+171601,Travel,k
+181699,Travel,k
+171699,Travel,k
+181801,Travel,k
+171701,Travel,k
+181899,Travel,k
+171799,Travel,k
+189999,Travel,k
+179999,Travel,k
+500101,Sleep,a
+500103,Sleep,a
+500104,Sleep,a
+500105,Sleep,a
+500106,Sleep,a
+500107,Sleep,a
+509989,Sleep,a
+500102,Sleep,a
+509999,Sleep,a
