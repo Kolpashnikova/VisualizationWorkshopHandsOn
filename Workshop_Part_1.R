@@ -1,3 +1,11 @@
+#### set up git with ssh ####
+
+#### git clone git@github.com:Kolpashnikova/VisualizationWorkshopHandsOn.git ####
+
+#### open the project file ####
+
+#### you can also download your own ATUS-X extract ####
+
 #### Load the data ####
 library(ipumsr)
 ddi <- read_ipums_ddi("data/atus_00003(1).xml")
